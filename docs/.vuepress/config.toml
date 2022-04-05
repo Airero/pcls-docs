@@ -1,13 +1,13 @@
-title = 'CakeMC 帮助文档'
-description = 'CakeMC 官方帮助文档'
+title = 'PCL 群组服帮助文档'
+description = '社区维护的 PCL 群组服帮助文档'
 evergreen = true
 'link' = { rel = 'icon', href = 'https://cdn.jsdelivr.net/gh/Big-Cake-jpg/Image_For_My_Blog/favicon.png' }
 
 [locales]
-'/' = { lang = 'zh-CN', title = 'CakeMC 帮助文档' }
+'/' = { lang = 'zh-CN', title = 'PCL 群组服帮助文档' }
 
 [themeConfig]
-repo = 'cake-mc/docs'
+repo = 'Big-Cake-jpg/pcls-docs'
 docsBranch = 'source'
 docsDir = 'docs'
 editLinks = true
@@ -21,28 +21,24 @@ lastUpdated = '最后更新'
 text = '主页'
 link = '/'
 [[themeConfig.locales.'/'.nav]]
-text = 'RTMWorld'
-link = '/rtmworld/'
+text = '生存服'
+link = '/main-server/'
 [[themeConfig.locales.'/'.nav]]
-text = 'Cake Launcher'
-link = '/cake-launcher/'
+text = '方块竞技场'
+link = '/block-fight-server/'
 [[themeConfig.locales.'/'.nav]]
-text = 'CakeSkin'
-link = '/cakeskin/'
+text = '玩前必看'
+link = '/before-playing/'
 
 [themeConfig.locales.'/'.sidebar]
-'/rtmworld/' = [
-  '/rtmworld/server-type',
-  '/rtmworld/how-to-play',
+'/main-server/' = [
+  '/main-server/how-to-play',
+  '/main-server/notes',
 ]
-'/cake-launcher/' = []
+'/block-fight-server/' = []
 
-'/cakeskin/' = [
-  '/cakeskin/about',
-  '/cakeskin/how-to-use',
-  '/cakeskin/policies/privacy',
-  '/cakeskin/policies/tos',
-  '/cakeskin/policies/user-code',
+'/before-playing/' = [
+  '/before-playing/system-requirements',
+  '/before-playing/qq-group-rules',
+  '/before-playing/server-rules',
 ]
-
-'/tzmtr/' = []

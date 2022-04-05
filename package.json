@@ -1,7 +1,7 @@
 {
-  "name": "CakeMC-Docs",
+  "name": "pcls-docs",
   "version": "1.0.0",
-  "description": "Official docs for CakeMC",
+  "description": "Official docs for PCL Minecraft server",
   "main": "index.js",
   "scripts": {
     "docs:dev": "vuepress dev docs",
