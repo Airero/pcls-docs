@@ -9,14 +9,14 @@ module.exports = {
          '/pcls/': [
              ['/pcls/', '首页'],
              '/pcls/introducing.html',
-             '/pcls/how-to-play.html',
-             '/pcls/q&a.html'
+             /* '/pcls/how-to-play.html', */
+             /* '/pcls/q&a.html' */
          ],
-         '/rules/': [
-             ['/rules/', '首页'],
-             '/rules/qq-group.html',
-             '/rules/pcls.html',
-             '/rules/ask-questions.html'
+        /* '/rules/': [ */
+            /* ['/rules/', '首页'], */
+            /* '/rules/qq-group.html', */
+            /* '/rules/pcls.html', */
+            /* '/rules/ask-questions.html' */
          ]
     },
     nav: [
