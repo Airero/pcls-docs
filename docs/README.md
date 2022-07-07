@@ -2,7 +2,7 @@
 home: true
 heroImage: /favicon.png
 actionText: 让我们趋势罢 ->
-actionLink: /
+actionLink: /pcls/
 features:
 - title: 玩家为主
   details: 以玩家的视角进行文档的编写，从而更方便地解决问题
