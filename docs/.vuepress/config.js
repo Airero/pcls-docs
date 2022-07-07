@@ -5,7 +5,7 @@ module.exports = {
     logo: 'favicon.png',
     editLinks: true,
     docsBranch: 'source',
-    sidebar: 
+    sidebar: {
          '/pcls/': [
              ['/pcls/', '首页'],
              '/pcls/introducing.html',
@@ -17,7 +17,8 @@ module.exports = {
              '/rules/qq-group.html',
              '/rules/pcls.html',
              '/rules/ask-questions.html'
-         ],
+         ]
+    },
     nav: [
       { text: '主页', link: '/' },
       { text: '生存服', link: '/pcls/' },
