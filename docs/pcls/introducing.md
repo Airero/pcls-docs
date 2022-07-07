@@ -6,7 +6,7 @@
 
 服务器 IP 为 `pcls.z0z0r4.top`
 
-一周目地图下载 https://pan.z0z0r4.top/s/zRXSk
+一周目地图下载 <https://pan.z0z0r4.top/s/zRXSk>
 
 有白名单 直接在群里说一声即可
 
@@ -33,7 +33,7 @@ SuperGame 小游戏
 
 请使用 `/report 玩家 原因` 举报玩家，如果管理不在线可 QQ
 
-赞助以让管理充满动力，维持服务器开支，请前往 https://pay.z0z0r4.top
+赞助以让管理充满动力，维持服务器开支，请前往 <https://pay.z0z0r4.top>
 
 # 加入群组
 
