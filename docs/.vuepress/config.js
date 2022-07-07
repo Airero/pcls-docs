@@ -1,7 +1,7 @@
 module.exports = {
   title: ' PCL 群组服帮助文档',
   description: '社区维护的 PCL 群组服帮助文档 兼 脑溢血治疗中心',
-  theme: 'vuepress-theme-hope'
+  theme: 'vuepress-theme-hope',
   themeConfig: {
     logo: 'favicon.png',
         docsRepo: 'Big-Cake-jpg/pcls-docs',
