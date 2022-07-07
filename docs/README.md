@@ -1,6 +1,7 @@
 ---
 home: true
-actionText: 让我们开始吧
+heroImage: /favicon.png
+actionText: 让我们趋势罢 ->
 actionLink: /
 features:
 - title: 玩家为主
