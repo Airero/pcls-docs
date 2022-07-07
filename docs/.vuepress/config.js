@@ -3,8 +3,10 @@ module.exports = {
   description: '社区维护的 PCL 群组服帮助文档 兼 脑溢血治疗中心',
   themeConfig: {
     logo: 'favicon.png',
-    editLinks: true,
-    docsBranch: 'source',
+        docsRepo: 'LittleSkinChina/manual',
+        docsBranch: 'master',
+        editLinks: true,
+        editLinkText: '帮助我们完善这个页面',
     sidebar: {
          '/pcls/': [
              ['/pcls/', '首页'],
@@ -26,9 +28,12 @@ module.exports = {
       { text: '赞助', link: 'https://pay.z0z0r4.top', target:'_blank' },
       { text: '封禁列表', link: 'https://bans.z0z0r4.top', target:'_blank' },
       { text: 'GitHub', link: 'https://github.com/Big-Cake-jpg/pcls-docs', target:'_blank' }
-    ]
+    ],
+    lastUpdated: '最后更新 ',
+    smoothScrool: true
   },
   head: [
     ['link', { rel: 'icon', href: 'favicon.png' }]
-  ]
+  ],
+  evergreen: true
 }
