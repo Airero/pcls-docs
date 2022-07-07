@@ -6,6 +6,8 @@
 
 服务器 IP 为 `pcls.z0z0r4.top`
 
+![状态](https://api.imlazy.ink/mcapi/?name=PCLS&host=pcls.z0z0r4.top&type=image&getmotd=%0a%0a&getbg=)
+
 一周目地图下载 <https://pan.z0z0r4.top/s/zRXSk>
 
 有白名单 直接在群里说一声即可
