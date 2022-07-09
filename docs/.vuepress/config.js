@@ -11,6 +11,7 @@ module.exports = {
          '/pcls/': [
              ['/pcls/', '首页'],
              '/pcls/introducing.html',
+             '/pcls/about-whitelist.html',
              /* '/pcls/how-to-play.html', */
              /* '/pcls/q&a.html' */
          ]
