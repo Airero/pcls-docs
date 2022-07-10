@@ -34,7 +34,8 @@ module.exports = {
     smoothScrool: true
   },
   head: [
-    ['link', { rel: 'icon', href: 'favicon.png' }]
+    ['link', { rel: 'icon', href: 'favicon.png' }],
+    ['link', { rel: 'apple-touch-icon', href: 'favicon.png' }]
   ],
   evergreen: true
 }
