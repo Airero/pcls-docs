@@ -12,7 +12,8 @@ module.exports = {
              ['/pcls/', '首页'],
              '/pcls/introducing.html',
              '/pcls/about-whitelist.html',
-             '/pcls/commands.html'
+             '/pcls/commands.html',
+             '/pcls/troubleshooting.html'
              /* '/pcls/how-to-play.html', */
              /* '/pcls/q&a.html' */
          ]
