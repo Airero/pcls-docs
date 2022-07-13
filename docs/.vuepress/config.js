@@ -16,13 +16,13 @@ module.exports = {
              '/pcls/troubleshooting.html'
              /* '/pcls/how-to-play.html', */
              /* '/pcls/q&a.html' */
-         ]
-        /* '/rules/': [ */
-            /* ['/rules/', '首页'], */
+         ],
+         '/rules/': [ 
+             ['/rules/', '首页'],
             /* '/rules/qq-group.html', */
-            /* '/rules/pcls.html', */
+             '/rules/pcls.html'
             /* '/rules/ask-questions.html' */
-        /* ] */
+         ] 
     },
     nav: [
       { text: '主页', link: '/' },
