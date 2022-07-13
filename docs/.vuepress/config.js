@@ -20,7 +20,8 @@ module.exports = {
          '/rules/': [ 
              ['/rules/', '首页'],
             /* '/rules/qq-group.html', */
-             '/rules/pcls.html'
+             '/rules/pcls.html',
+             '/rules/ops-server.html'
             /* '/rules/ask-questions.html' */
          ] 
     },
