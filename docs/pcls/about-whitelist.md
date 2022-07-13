@@ -1,6 +1,6 @@
 # 关于白名单
 
-我们现在使用的是 [xuan2006 编写的 natsurainko.plugins.whitelist 插件 (WaterFall)](https://github.com/xuan2006/natsurainko.plugins.whitelist) 进行白名单验证。
+我们现在使用的是 [natsurainko(xuan2006) 编写的 natsurainko.plugins.whitelist 插件 (WaterFall)](https://github.com/xuan2006/natsurainko.plugins.whitelist) 进行白名单验证。
 
 ## 申请白名单
 
