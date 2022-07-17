@@ -5,6 +5,7 @@ module.exports = {
     logo: 'favicon.png',
         docsRepo: 'Big-Cake-jpg/pcls-docs',
         docsBranch: 'source',
+        docsDir = 'docs',
         editLinks: true,
         editLinkText: '帮助我们完善这个页面',
     sidebar: {
